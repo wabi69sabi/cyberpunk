@@ -5,4 +5,4 @@ This is the attempt of a pure ruby based futuristic MUD that runs in the console
 ### Goals
 
 - Use MVC
-- Create a modifiable and interesting console friven RPG
+- Create a modifiable and interesting console driven RPG
